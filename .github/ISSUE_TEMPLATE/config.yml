@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+context_links:
+  - name: Contact Me
+    url: https://github.com/mrhappyma/.github/blob/main/SUPPORT.md
+    about: Contact me directly
